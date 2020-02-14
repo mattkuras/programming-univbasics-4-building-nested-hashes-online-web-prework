@@ -1,7 +1,7 @@
 def base_hash
   
 	monopoly = {
-	  key: a_value  
+	  railroads: a_value  
 	}
 end
 
