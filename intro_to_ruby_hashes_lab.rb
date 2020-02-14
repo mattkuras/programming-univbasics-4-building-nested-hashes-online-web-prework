@@ -28,9 +28,9 @@ def monopoly_with_third_tier
 	    },
 	    rent_in_dollars: {
 	    one_piece_owned: 25,
-	    key1: a_value,
-	    key2: a_value,
-	    key3: a_value
+	    two_pieces_owned: 50,
+	    three_pieces_owned: 75,
+	    four_pieces_ownded: 100
 	    }
 	    }
 	  }
