@@ -22,7 +22,7 @@ def monopoly_with_third_tier
 	    pieces: 4,
 	    names: {
 	      reading_railroad: {},
-	      key1: a_value,
+	      pennsylvania_railroad: {},
 	      key2: a_value,
 	      key3: a_value
 	    },
